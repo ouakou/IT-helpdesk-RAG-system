@@ -25,7 +25,7 @@ If the status page shows a problem, **do not raise a ticket**. Your report is al
 
 ## If it is not listed
 
-If something is down and not on the status page, ring ext. 4000 (08:00 to 18:00). Tell the helpdesk how many people are affected and your location. If it affects a whole office or many people, it becomes a P1 or P2 (see the SLA article).
+If something is down and not on the status page, ring ext. 4000 (08:00 to 18:00). Tell the helpdesk how many people are affected and your location. If it affects a whole office or many people, it becomes a P1 or P2 (see the SLA article). Out of hours, ring ext. 4999 for a P1 outage.
 
 ## Planned maintenance
 

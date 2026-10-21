@@ -36,7 +36,7 @@ Check your email for the question. If you do not answer within 5 working days we
 
 ## Escalating
 
-If a P2 or P3 ticket is overdue by more than a day, or the impact has grown, ask for it to be escalated. The helpdesk supervisor reviews it and may raise its priority. Only the security hotline (ext. 4999) handles P1.
+If a P2 or P3 ticket is overdue by more than a day, or the impact has grown, ask for it to be escalated. The helpdesk supervisor reviews it and may raise its priority. P1 incidents (security incidents and major outages) are handled 24 hours a day on the hotline, ext. 4999.
 
 ## Complaints
 

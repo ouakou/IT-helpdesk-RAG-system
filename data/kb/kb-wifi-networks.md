@@ -1,6 +1,6 @@
 ---
 article_id: kb-wifi-networks
-title: Wi-Fi: office and guest networks
+title: "Wi-Fi: office and guest networks"
 last_updated: 2022-09-12
 applies_to: Windows 7, Windows 8 and Windows 10 laptops; all Acme offices
 ---

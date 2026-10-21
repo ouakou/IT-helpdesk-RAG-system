@@ -29,7 +29,7 @@ A security incident is urgent. **Do not try to fix it yourself and do not ask th
 
 - The security team takes over and may ask you to hand in the laptop.
 - Accounts may be locked and passwords reset for safety. This is expected.
-- High-severity incidents are classed as **Priority 1** (see the SLA article) and get a response within 15 minutes.
+- High-severity incidents are classed as **P1** (see the SLA article) and get a response within 15 minutes.
 
 ## Why speed matters
 

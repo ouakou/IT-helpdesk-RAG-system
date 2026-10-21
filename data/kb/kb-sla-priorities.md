@@ -12,7 +12,7 @@ applies_to: All Acme staff; helpdesk portal, phone and chat
 - **Portal:** `helpdesk.acme.example`, choose a category and describe the problem.
 - **Phone:** ext. 4000, Monday to Friday, 08:00 to 18:00.
 - **IT desk:** floor 1, 09:00 to 16:00.
-- **Security incidents:** ext. 4999, 24 hours (see the Suspected breach article).
+- **P1 incidents (security incidents and major outages):** ext. 4999, 24 hours (see the Suspected breach article).
 
 Good tickets say what you were doing, the exact error, when it started, which device you use and how many people are affected. Screenshots help.
 
@@ -37,4 +37,4 @@ Equipment, software reviews and access approvals depend on third parties. Their 
 
 ## Out of hours
 
-Outside hours, only P1 is handled. Everything else waits for the next working day.
+Outside hours, only P1 is handled, and you reach it on ext. 4999. Everything else waits for the next working day.

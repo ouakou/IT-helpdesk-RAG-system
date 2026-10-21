@@ -1,6 +1,6 @@
 ---
 article_id: kb-outlook-email
-title: Outlook and email: mailbox full, shared mailboxes, calendar
+title: "Outlook and email: mailbox full, shared mailboxes, calendar"
 last_updated: 2025-11-26
 applies_to: All Acme staff; Outlook desktop, web and mobile
 ---

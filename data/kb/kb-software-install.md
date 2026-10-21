@@ -14,9 +14,10 @@ You cannot install programs directly on a company laptop. Software is installed 
 Open the **Software Centre** (Windows) or **Self Service** (macOS) and install any listed program yourself, with no ticket and no admin rights. The catalogue includes:
 
 - Microsoft 365 apps, Teams and OneDrive
-- Zoom (view-only for external meetings), Adobe Acrobat Reader
-- 7-Zip, Notepad++, Visual Studio Code, Python 3.12
-- Slack is not approved; use Teams.
+- Adobe Acrobat Reader, 7-Zip, Notepad++
+- Visual Studio Code and Python 3.12 (for staff in technical roles)
+
+Zoom and Slack are not approved. Use Teams for meetings and chat; if an external party insists on Zoom, join from the browser.
 
 ## Software not in the catalogue
 
